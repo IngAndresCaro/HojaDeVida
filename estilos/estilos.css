@@ -1,0 +1,8 @@
+.header {
+    background-color: aqua;
+    text-align: right;
+}
+
+.columnas {
+    column-count: 8;
+}
